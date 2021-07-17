@@ -6,3 +6,4 @@ pyathena==2.0.0
 pyathenajdbc==2.1.1
 SQLAlchemy==1.3.24
 SQLAlchemy-Utils==0.36.8
+flask-wtf==0.14.2
