@@ -5,13 +5,3 @@ python3 -m venv superset
 . superset/bin/activate
 
 pip install -r requirements.txt
-
-superset db upgrade
-
-export FLASK_APP=superset
-
-superset fab create-admin
-
-superset load_examples
-
-superset init
