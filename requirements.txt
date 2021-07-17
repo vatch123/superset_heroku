@@ -1,4 +1,3 @@
-psycopg2==2.9.1
 psycopg2-binary==2.9.1
 apache-superset
 pyarrow==3.0.0
