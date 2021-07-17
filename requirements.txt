@@ -1,5 +1,4 @@
 psycopg2-binary==2.9.1
-apache-superset
 pyarrow==3.0.0
 pyathena==2.0.0
 pyathenajdbc==2.1.1
