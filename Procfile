@@ -1,1 +1,1 @@
-web: sh setup.sh
+web: superset runserver -p $PORT
